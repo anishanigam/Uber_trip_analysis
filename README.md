@@ -153,8 +153,4 @@ Uber-Trip-Analysis/
 │
 ├── data/
 │   └── README.md
-│
-└── visualizations/
-    ├── monthly_trips.png
-    ├── base_activity.png
-    └── pickup_heatmap.html
+
